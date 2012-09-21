@@ -1,0 +1,17 @@
+{
+  "name": "synapse",
+  "repo": "jmars/synapse",
+  "description": "Hooks to support data binding between virtually any object.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts":[
+    "dist/dev/synapse/core.js"
+    "dist/dev/synapse/jquery.js"
+    "dist/dev/synapse/object.js"
+    "dist/dev/synapse/zepto.js"
+    "dist/dev/synapse/backbone-model.js"
+    "dist/dev/synapse/backbone-view.js"
+  ]
+}

@@ -1,1 +1,5 @@
-Read the docs: http://bruth.github.com/synapse/docs/
+
+# synapse
+
+  Hooks to support data binding between virtually any object.
+
