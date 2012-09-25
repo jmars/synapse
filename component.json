@@ -7,11 +7,11 @@
   "dependencies": {},
   "development": {},
   "scripts":[
-    "dist/dev/synapse/core.js"
-    "dist/dev/synapse/jquery.js"
-    "dist/dev/synapse/object.js"
-    "dist/dev/synapse/zepto.js"
-    "dist/dev/synapse/backbone-model.js"
-    "dist/dev/synapse/backbone-view.js"
+    "build/synapse/core.js"
+    "build/synapse/jquery.js"
+    "build/synapse/object.js"
+    "build/synapse/zepto.js"
+    "build/synapse/backbone-model.js"
+    "build/synapse/backbone-view.js"
   ]
 }
