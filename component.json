@@ -7,7 +7,7 @@
   "dependencies": {},
   "development": {},
   "scripts":[
-    "build/synapse.js"
+    "build/synapse.js",
     "build/synapse/core.js",
     "build/synapse/jquery.js",
     "build/synapse/object.js",
